@@ -31,8 +31,7 @@ body {
     background-color: rgb(247, 247, 247);
     text-align: center;
     padding: 15px 30px;
-    margin: auto;
-    opacity: 0px;
+    overflow-y: scroll;
 }
 
 .logo .name {
