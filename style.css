@@ -53,7 +53,7 @@ body {
     padding-left: 10px;
 }
 
-@media (max-width:450px) {
+@media (max-width:721px) {
     .items {
         font-size: 12;
         gap: 18px;
@@ -111,7 +111,7 @@ body {
     text-align: justify;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 721px) {
     .welcome{
         font-size: 18;
         text-align: justify;
@@ -124,7 +124,7 @@ span {
     font-family: monospace;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 721px) {
     span{
         font-size: 25;
     }
@@ -145,7 +145,7 @@ span {
     color: #000000a7;
 }
 
-@media (max-width:450px) {
+@media (max-width:721px) {
     .wd{
         font-size: 10px;
         margin-top: 15;
@@ -430,7 +430,7 @@ a {
     width: 100%;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 721px) {
     .projectimg1 img {
         height: 200;
     }
